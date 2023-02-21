@@ -1,4 +1,4 @@
-# flutter_sign
+# flutter_astrology_horoscope
 
 A new Flutter project.
 
